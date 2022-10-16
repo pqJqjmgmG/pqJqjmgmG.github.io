@@ -16,3 +16,7 @@ section {
   height: 200px;
   border-radius: 100%;
 }
+
+.jumbotron {
+  background-img: url('img/1.jpg');
+}
