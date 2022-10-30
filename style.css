@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 6rem;
-  /* background-color: #e2edff; */
+  background-color: #e2edff;
 }
 
 #projects {
@@ -17,7 +17,7 @@ section {
   border-radius: 100%;
 }
 
-.jumbotron {
+/* .jumbotron {
   background-image: url('img/jumbotron.jpg');
   background-size: cover;
-}
+} */
